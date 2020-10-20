@@ -35,4 +35,11 @@ public class ContactTest {
 		System.out.println("execute deleteContactTest ");
 		
 	}
+	
+	@Test
+	public void searchContactTest() {
+
+		System.out.println("execute searchContactTest ");
+		
+	}
 }
